@@ -1,0 +1,13 @@
+{
+  "name": "mutombo",
+  "version": "1.0.0-alpha.0",
+  "description": "Enforce corresponding GitHub issues for TODOs",
+  "author": "Ryan Tsao <ryan.j.tsao@gmail.com>",
+  "repository": "git@github.com:rtsao/mutombo.git",
+  "homepage": "https://github.com/rtsao/mutombo",
+  "bugs": "https://github.com/rtsao/mutombo/issues",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {},
+  "license": "MIT"
+}
